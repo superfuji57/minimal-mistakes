@@ -1,9 +1,11 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
+excerpt: "The Website of Andy Won"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: paddlesunset.gif
+  credit: Jens Mayer
+  creditlink: https://unsplash.com/jens_mayer
 ---
+
+## I am a person who does things.

@@ -1,8 +1,9 @@
 # Site wide configuration
 
-title:            Site Title
+title:            andywon.nyc
 locale:           en_US
-url:              
+url:              #www.andywon.nyc
+url:              http://localhost:4000
 
 
 # Jekyll configuration
@@ -26,28 +27,30 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Andy Won
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
+  bio: "Cool, calm -- just like my mom"
+  email: andy.won@gmail.com
+  disqus-shortname: andrewwon
+  twitter: andy_juan
   facebook: #username
   google:
     plus: #username
-    analytics: 
+    analytics: UA-57622769-1
     verify: 
     ad-client: 
     ad-slot: 
+ 
   bing-verify: 
-  github: #username
+  github: superfuji57
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: andy-won
+  instagram: andy_juan
   lastfm: #username
+ 
   tumblr: #username
   pinterest: #username
-  foursquare: #username
+  foursquare: andy_juan
   steam: #username
   dribbble: #username
   youtube: #username
